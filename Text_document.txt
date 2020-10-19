@@ -1,0 +1,9 @@
+Game number:1
+Blue score: 28 | Red score: 26 | 
+Status: Blue wins
+Game length: Full
+Current serve: Blue
+Recorded on: 10:21:11 AM
+On date: 19/10/20 Mon
+
+-----------------------------
